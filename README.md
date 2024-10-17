@@ -35,11 +35,11 @@ A simple Python application for looking up information about domain names: this 
    ```
 ## Application Screenshot
 
-![Screenshot of Application](screenshot/CLI.png)
-![Screenshot of Application](screenshot/GUI1.png)
-![Screenshot of Application](screenshot/GUI2.png)
-![Screenshot of Application](screenshot/GUI3.png)
-![Screenshot of Application](screenshot/text.png)
+![Screenshot of Application](CLI.png)
+![Screenshot of Application](GUI1.png)
+![Screenshot of Application](GUI2.png)
+![Screenshot of Application](GUI3.png)
+![Screenshot of Application](text.png)
 
 This screenshot shows the user interface of the Domain Lookup Tool.
 
