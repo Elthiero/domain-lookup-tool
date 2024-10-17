@@ -12,7 +12,7 @@ A simple Python application for looking up information about domain names: this 
 - **Repeated Lookups**: Perform multiple domain lookups in a single session.
 - **Error Handling**: Informative feedback for invalid inputs and connection issues.
 
-## Installation Instructions
+## Installation Instructions for Ubuntu users
 
 1. **Clone the Repository**:
    Open your terminal and run the following command to clone the repository:
